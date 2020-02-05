@@ -1,0 +1,24 @@
+WSZYSTKIE URZYTE W TYM PROJEKCIE ASSETY, POCHODZĄ Z ASSET STORE UNITY 3D
+WSZYSTKIE PRAWA DO MODELI, SKRYPTÓW ITD. PRZYPISUJE SIĘ ICH WŁAŚCICIELOM
+
+WSZYSTKIE WYMIENIONE PRZEZE MNIE ASSETY PODLEGAJĄ POD STANDARDOWĄ LICENCJĘ 
+ASSET STORE END USER LICENSE AGREEMENT
+https://unity3d.com/legal/as_terms
+
+- Building Constructor
+https://assetstore.unity.com/packages/3d/environments/urban/building-constructor-54469
+
+- Classic Skybox
+https://assetstore.unity.com/packages/2d/textures-materials/sky/classic-skybox-24923
+
+- Fantasy Skybox FREE
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
+- Racing Cars Pack 1
+https://assetstore.unity.com/packages/3d/vehicles/land/racing-cars-pack-1-2195
+
+- Standard Assets (for Unity 2017.3)
+https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351
+
+- Realistic Tree9 [Rainbow Tree] 
+https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-9-rainbow-tree-54622
